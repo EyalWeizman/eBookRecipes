@@ -1,0 +1,15 @@
+{
+  "name": "RecipesBook",
+  "version": "1.0.0",
+  "description": "a recipes book online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eyal",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.3.8",
+    "bootstrap": "^3.3.1"
+  }
+}

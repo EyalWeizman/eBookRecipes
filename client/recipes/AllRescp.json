@@ -1,0 +1,19 @@
+[
+    {"name": "hamin",
+        "description": "trditional jewish shabat food",
+        "ingredients":"2 eeg, 1 chicken and one cup of green wheat ",
+        "instruction":"hash hasho oto wa zapzpo oto"
+    },
+
+    {"name": "haminTimani",
+        "description": "trditional jewish shabat food",
+        "ingredients":"2 eeg, 1 chicken and one cup of green wheat ",
+        "instruction":"hash hasho oto wa zapzpo oto"
+    },
+
+    {"name": "haminAshkanzi",
+        "description": "trditional jewish shabat food",
+        "ingredients":"2 eeg, 1 chicken and one cup of green wheat ",
+        "instruction":"hash hasho oto wa zapzpo oto"
+    }
+]
